@@ -1,6 +1,7 @@
 # spm
+=======================
 Simple command line password manager
-=========================
+---------------------
 
 Yet another command line password manager.
 
@@ -12,5 +13,5 @@ Yet another command line password manager.
 
 * [Features to add]
 	* Implement the damn password manager :P
-	* Auto complete 
+	* 	Auto complete 
 
